@@ -1,0 +1,7 @@
+﻿  BooleanExpression.cpp
+  Conjunction.cpp
+  Operation.cpp
+D:\maria\BooleanExpression\BooleanExpression\Operation.cpp(69,31): error C2039: 'getNumberOfVars': is not a member of 'BooleanExpression'
+D:\maria\BooleanExpression\BooleanExpression\BooleanExpression.h(3): message : see declaration of 'BooleanExpression'
+  Variable.cpp
+  Generating Code...
